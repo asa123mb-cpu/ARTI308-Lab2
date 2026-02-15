@@ -1,6 +1,5 @@
 import pandas as pd
 
-# Load dataset (make sure the file name matches your CSV exactly)
 df = pd.read_csv("/Users/asayelmohammed/Desktop/WA_Fn-UseC_-Telco-Customer-Churn.csv")
 
 # Display basic info required in the lab
